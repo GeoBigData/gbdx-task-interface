@@ -1,5 +1,5 @@
 data_classification:
-  - company_proprietary
+  - public
 poc:
   - name: Team A-Team
     email: ateam@maxar.com
